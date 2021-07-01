@@ -1,0 +1,131 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+   background-image: url('../BingWallpaper.jpg');
+   background-size: 100%;
+}
+a{
+    text-decoration-line: none;
+    margin: 20px;
+    cursor: pointer;
+    color: rgb(240, 231, 231);
+}
+.link-1:hover{
+    color: inherit;
+    color: rgb(255, 255, 255);
+}
+.part-1{
+    display: inline-block;
+    width: 600px;
+    padding-left: 280px;
+    vertical-align: super;
+}
+.part-2{
+    display: inline-block;
+    width: 150px;
+    padding-left: 350px; 
+}
+#sign-in{
+    color: #fff;
+}
+#button-1{
+    height: 32px;
+    width: 32px;
+    border-radius: 16px;
+    border: none;
+    background-color: #ececec;
+    display: inline-block;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url('../download.svg'); 
+    vertical-align: middle;
+    background-color: blueviolet;
+}
+#button-2{
+    border: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxNCIgZmlsbD0id2hpdGUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcg MCAwIDIwIDE0Ij48cGF0aCBkPSJNMCAwdjJoMjB2LTJoLTIwem0wIDhoMjB2LTJoLTIwdjJ6bTAgNmgyMHYtMmgtMjB2MnoiLz48L3N2Zz4=');
+    height: 39px;
+    width: 20px;
+    margin: 10px 15px;
+    background-color: transparent; 
+    vertical-align: middle;
+}
+.header{
+    width: 100%;
+    overflow: hidden;
+}
+.container{
+    width: 400px;
+    margin: auto;
+    margin-top: 6%;
+}
+input{
+    width: 600px;
+    height: 52px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    user-select: none;
+}
+#buttom-3{
+    position: absolute;
+    background-color: #fff;
+    border: none;
+    width: 0px;
+    height: 0px;
+    margin-left: 10px;
+    margin-top: -40px; 
+}
+#buttom-4{
+    position: absolute;
+    background-color: #fff;
+    border: none;
+    width: 0px;
+    height: 0px;
+    margin-left: 42px;
+    margin-top: -40px; 
+}
+#buttom-5{
+    position: absolute;
+    background-color: #fff;
+    border: none;
+    width: 0px;
+    height: 0px;
+    margin-left: 80px;
+    margin-top: -40px; 
+}
+#buttom-6{
+    position: absolute;
+    background-color: #fff;
+    border: none;
+    width: 0px;
+    height: 0px;
+    margin-left: 120px;
+    margin-top: -38px; 
+}
+.footer{
+    background-color: rgba(2, 1, 1, 0.712);
+    margin-top: 550px;
+    padding-top: 10px;
+    height: 100px;
+    padding-left: 120px;
+}
+#part-1:hover{
+    text-decoration-line: underline;
+}
+#part-2:hover{
+    text-decoration-line: underline;
+}
+#part-3:hover{
+    text-decoration-line: underline;
+}
+#part-4:hover{
+    text-decoration-line: underline;
+}
+#part-5:hover{
+    text-decoration-line: underline;
+}
